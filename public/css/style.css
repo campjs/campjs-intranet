@@ -1,5 +1,7 @@
 body {
-  margin: 5px;
+  padding: 5px;
+  color: lime;
+  background-image: url('../img/bg.gif');
 }
 
 h1 {
@@ -12,4 +14,13 @@ ul {
 
 .sponsors img {
   margin-bottom: 10px;
+}
+
+.middle-lane {
+  margin-top: 200px;
+  text-align: center;
+}
+
+.middle-lane img {
+  width: 300px;
 }
