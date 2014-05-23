@@ -1,3 +1,15 @@
+body {
+  margin: 5px;
+}
+
 h1 {
   text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+.sponsors img {
+  margin-bottom: 10px;
 }
