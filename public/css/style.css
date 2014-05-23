@@ -1,3 +1,17 @@
 h1 {
   text-align: center;
 }
+
+body {
+  color: lime;
+  background-image: url('../img/bg.gif');
+}
+
+.middle-lane {
+  margin-top: 200px;
+  text-align: center;
+}
+
+.middle-lane img {
+  width: 300px;
+}
