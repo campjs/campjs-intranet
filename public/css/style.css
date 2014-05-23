@@ -1,7 +1,7 @@
 body {
   padding: 5px;
   color: lime;
-  background-image: url('../img/bg.gif');
+  background-image: url('../img/gif/bg.gif');
 }
 
 h1 {
@@ -17,7 +17,7 @@ ul {
   text-align: center;
 }
 
-.schedule img {
+.schedule > img {
   width: 300px;
 }
 
