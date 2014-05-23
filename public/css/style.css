@@ -21,6 +21,9 @@ ul {
   list-style: none;
 }
 
+code {
+  margin-bottom: 20px;
+}
 
 .schedule {
   text-align: center;
