@@ -140,7 +140,7 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 </style>
 <style>#wrapper { max-width:780px; margin:0 auto }</style>
 </head>
-<body class="normal">
+<body class="normal firstload">
   <div id="wrapper">
       <h1 id="npm">npm</h1>
 
@@ -162,7 +162,8 @@ $ npmrc -c campjs
 Removing old .npmrc (default)
 Activating .npmrc &quot;campjs&quot;
 
-$ npm config set registry http://npm.campjs</code></pre>
+$ npm config set registry http://npm.campjs
+$ npm config set shrinkwrap false</code></pre>
 
 <p>To change back to your default <code>.npmrc</code>:</p>
 <pre><code class="bash">$ npm default

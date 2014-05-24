@@ -21,6 +21,7 @@ Removing old .npmrc (default)
 Activating .npmrc "campjs"
 
 $ npm config set registry http://npm.campjs
+$ npm config set shrinkwrap false
 ```
 
 To change back to your default `.npmrc`:
